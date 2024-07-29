@@ -1,0 +1,29 @@
+.logo {
+    height: 100px;
+    width: 100px;
+}
+
+.navbar-items {
+
+    display: flex;
+    margin-left: 0px;
+    justify-content: space-between;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.right {
+    align-self: flex-end;
+
+
+}
+
+.left {
+    align-self: flex-start;
+    height: 100px;
+    width: 100px;
+}
